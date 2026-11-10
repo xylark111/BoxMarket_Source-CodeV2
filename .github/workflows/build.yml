@@ -23,4 +23,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: BoxMarket-jar
-          path: target/BoxMarketV2.jar
+          path: target/BoxMarket-1.0.0.jar
